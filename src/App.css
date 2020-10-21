@@ -48,3 +48,15 @@ h1 {
 h2 {
   color: #2a2a2a;
 }
+
+p {
+  color: gray;
+}
+
+button {
+  margin: .2rem;
+}
+
+input {
+  margin: .2rem;
+}
